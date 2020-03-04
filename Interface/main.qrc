@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>6-68558_wifi-icon-red-red-wifi-symbol-png.png.jpeg</file>
+        <file>last_version.qml</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>iconfinder_app_type_gas_stations_512px_GREY_287492.png</file>
+        <file>Car.png</file>
+        <file>arrow+left+chevron+chevronleftcircle+circle+left+left+icon-1320185731365383044.png</file>
+        <file>arrow-symbol-arrow-png-image--29.png</file>
+        <file>arrow-symbol-arrow-png-image--29_butYelow.png</file>
+        <file>arrow+left+chevron+chevronleftcircle+circle+left+left+icon-1320185731365383044 copia.png</file>
+        <file>white-circle-icon-23.png</file>
+        <file>11247-large-blue-circle.png</file>
+        <file>cerchio_rosso.png</file>
+        <file>cerchio.png</file>
+        <file>11247-large-blue-circle copia.png</file>
+        <file>Vector 9-2.png</file>
+        <file>Ellipse.png</file>
+        <file>Model 3.png</file>
+        <file>ok.png</file>
+        <file>model 3 copia.png</file>
+    </qresource>
+</RCC>
